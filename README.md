@@ -24,9 +24,10 @@ To create a web page we need these tools.
 2. [StackOverflow](https://stackoverflow.com/questions/tagged/git)
 3. [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## contributers:
+## Contributers:
 
 **Name :** Vigneshwar Reddy Lenkala
+
 **Program :** Applied Computer Science
 
 *This is my favourite pic*
