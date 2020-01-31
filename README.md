@@ -2,8 +2,8 @@
 
 ## Repository Links:
 
-* ![Source Repository](https://github.com/vigneshwar6666/about-me)
-* ![Hosted Web Page](https://vigneshwar6666.github.io/about-me/)
+* [Source Repository](https://github.com/vigneshwar6666/about-me)
+* [Hosted Web Page](https://vigneshwar6666.github.io/about-me/)
 
 
 ## About:
@@ -20,9 +20,9 @@ To create a web page we need these tools.
 
 ## Recommened Resources:
 
-1. ![W3schools](https://www.w3schools.com/whatis/)
-2. ![StackOverflow](https://stackoverflow.com/questions/tagged/git)
-3. ![Markdown](https://guides.github.com/features/mastering-markdown/)
+1. [W3schools](https://www.w3schools.com/whatis/)
+2. [StackOverflow](https://stackoverflow.com/questions/tagged/git)
+3. [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## contributers:
 
