@@ -34,6 +34,6 @@ To create a web page we need these tools.
 
 ![Quote](https://quotefancy.com/media/wallpaper/3840x2160/29274-Anonymous-Quote-When-you-feel-like-quitting-think-about-why-you.jpg)
 
-Image sourec obtained from [here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F757174%2FAnonymous-When-you-feel-like-quitting-think-about-why-you-started&psig=AOvVaw3uHv1LKAILilpp6Te51Qpb&ust=1580537639639000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCKjshduXrecCFQAAAAAdAAAAABAD)
+Image source obtained from [here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F757174%2FAnonymous-When-you-feel-like-quitting-think-about-why-you-started&psig=AOvVaw3uHv1LKAILilpp6Te51Qpb&ust=1580537639639000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCKjshduXrecCFQAAAAAdAAAAABAD)
 
 
